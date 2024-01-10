@@ -1,9 +1,9 @@
-Approach and Methodologies:
-1. Exploratory Data Analysis (EDA):
+# Approach and Methodologies:
+## 1. Exploratory Data Analysis (EDA):
    
-Objective: Understand the structure and characteristics of the Iris dataset.
+### Objective: Understand the structure and characteristics of the Iris dataset.
 
-Steps Taken:
+### Steps Taken:
 
   Loaded the dataset using Pandas.
 
@@ -15,11 +15,11 @@ Steps Taken:
 
   Utilized a pair plot to visualize relationships between numerical features.
 
-2. Data Science Task:
+## 2. Data Science Task:
    
-Objective: Predict Iris species based on their characteristics.
+### Objective: Predict Iris species based on their characteristics.
 
-Steps Taken:
+### Steps Taken:
   
   Encoded the categorical target variable ('Species') using Label Encoding.
 
